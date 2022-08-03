@@ -3,4 +3,4 @@
 #all bin outputs
 bin*
 #all obj outputs
-obj *
+obj*
