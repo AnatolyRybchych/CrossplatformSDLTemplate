@@ -1,0 +1,6 @@
+#vscode data
+.vscode
+#all bin outputs
+bin*
+#all obj outputs
+obj *
