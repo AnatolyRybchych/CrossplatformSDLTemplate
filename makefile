@@ -21,8 +21,8 @@ build_desktop: $(addprefix $(DESKTOP_OBJ_DIR)/,$(objects))
 
 
 #ANDROID!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-DESKTOP_BIN_DIR := bin_android
-DESKTOP_OBJ_DIR := obj_android
+ANDROID_BIN_DIR := bin_android
+ANDROID_OBJ_DIR := obj_android
 
 
 
